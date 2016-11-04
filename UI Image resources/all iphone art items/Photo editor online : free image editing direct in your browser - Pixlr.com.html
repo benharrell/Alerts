@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Photo editor online / free image editing direct in your browser - Pixlr.com</title>
+<meta content="Pixlr Editor is a free online photo editor with a prefessional touch. Fix, adjust and filter your images. Manage your images in your browser, no registration required jump right in!" name="Description">
+<meta content="photo, photograph, picture, free, opacity, alpha, edit, editing, adjustments, online, flickr, facebook, photobucket, camera, digital, image, red-eye, fix, photoshop, gimp, photoshop" name="Keywords">
+<style>
+  /*<![CDATA[*/
+    html, body { margin: 0; padding: 0; background: #606060; overflow: hidden; width: 100%; height: 100%; }
+    #noflash { padding-top: 30px; margin: 0 auto; width: 600px; }
+  /*]]>*/
+</style>
+</head>
+<body>
+<noscript>
+Pixlr Photo editor requires javascript.
+</noscript>
+<script>
+  //<![CDATA[
+    var version = 0;
+    if(navigator.plugins != null && navigator.plugins.length > 0 && navigator.plugins["Shockwave Flash"]) { version = navigator.plugins["Shockwave Flash"].description.split(" ")[2].split(".")[0]; }
+    else { try { var axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7"); version = axo.GetVariable("$version").split(" ")[1].split(",")[0]; } catch (e) {}}
+    if(version >= 10) { RunContent('width','100%','height','100%','src','http://cdn.pixlr.com/editor/editor.swf?name=&email=&loc=en','movie','http://cdn.pixlr.com/editor/editor.swf?name=&email=&loc=en','quality','high','wmode','window','devicefont','false','id','editor','bgcolor','#606060','name','editor','menu','false','allowFullScreen','true','allowScriptAccess','always','allowNetworking','all','allowFullScreenInteractive','true'); }
+    else { document.write("<div id='noflash'>You need Flash player 10 or better to be able to use Pixlr Editor - <a href='http://get.adobe.com/flashplayer'>Get Flash Player</a></div>"); }
+    function Generateobj(objAttrs,params,embedAttrs){var isIE=(navigator.appVersion.indexOf("MSIE")!=-1)?true : false;var isWin=(navigator.appVersion.toLowerCase().indexOf("win")!=-1)?true : false;var isOpera=(navigator.userAgent.indexOf("Opera")!=-1)?true : false;var str='';if(isIE&&isWin&&!isOpera){str+='<object ';for(var i in objAttrs){str+=i+'="'+objAttrs[i]+'" ';}str+='>';for(var i in params){str+='<param name="'+i+'" value="'+params[i]+'"/>';}str+='</object>';}else{str+='<embed ';for(var i in embedAttrs){str+=i+'="'+embedAttrs[i]+'" ';}str+=' />';}document.write(str);}function RunContent(){var ret=GetArgs(arguments,"movie","clsid:d27cdb6e-ae6d-11cf-96b8-444553540000","application/x-shockwave-flash");Generateobj(ret.objAttrs,ret.params,ret.embedAttrs);}function GetArgs(args,srcParamName,classid,mimeType){var ret=new Object();ret.embedAttrs=new Object();ret.params=new Object();ret.objAttrs=new Object();for(var i=0;i<args.length;i=i+2){var currArg=args[i].toLowerCase();switch(currArg){case "src": case "movie": ret.embedAttrs["src"]=args[i+1];ret.params[srcParamName]=args[i+1];break;case "width": case "height": case "name": case "tabindex": ret.embedAttrs[args[i]]=ret.objAttrs[args[i]]=args[i+1];break;case "id":ret.objAttrs[args[i]]=args[i+1];default: ret.embedAttrs[args[i]]=ret.params[args[i]]=args[i+1];}}ret.objAttrs["classid"]=classid;if(mimeType)ret.embedAttrs["type"]=mimeType;return ret;}
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    function CallBack(b,a){document.getElementById("editor")[b](a)}
+    function Auth(a){({facebook:function(){var c="https://graph.facebook.com/oauth/authorize?client_id=126974090689377&redirect_uri=http://pixlr.com/facebook/auth&scope=publish_stream,user_photos,offline_access&display=popup",b=window.open(c,"auth_window","location=0,status=0,scrollbars=0,titlebar=0,resizable=0,menubar=0,directories=0,width=600,height=400")},flickr:function(){var c="http://flickr.com/services/auth/?api_key=3c39be9d9b0b84b80e1852a38ec9179a&perms=delete&api_sig=a75262d1a6b7cb27a9daf8db8813d4cb",b=window.open(c,"auth_window","location=0,status=0,scrollbars=0,titlebar=0,resizable=0,menubar=0,directories=0,width=880,height=600")},picasa:function(){var c="https://www.google.com/accounts/AuthSubRequest?scope=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2F&session=1&secure=0&next=http://pixlr.com/picasa/auth",b=window.open(c,"auth_window","location=0,status=0,scrollbars=0,titlebar=0,resizable=0,menubar=0,directories=0,width=800,height=600")}})[a]()};
+    function Clipboard(){var m=document.getElementById("mole"),obj=frame(m).getElementById("clipboard");if(obj==null){m.src="clipboard.htm";}else{CallBack("clipboard",obj.GetClipboardImage());}}
+    function frame(iframe){return(iframe.contentDocument||iframe.contentWindow.document||iframe.document);}
+    function Login(a){({google:function(){window.open("http://pixlr.com/openid/auth","login_window","location=0,status=0,scrollbars=0,titlebar=0,resizable=0,menubar=0,directories=0,width=600,height=400"); }})[a]()}
+  //]]>
+</script>
+
+<iframe frameborder="0" height="10" id="mole" style="position:absolute;z-index:4;left:-50px" width="10"></iframe>
+<script>
+  //<![CDATA[
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    var pageTracker = _gat._getTracker("UA-1830856-4");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+  //]]>
+</script>
+</body>
+</html>
