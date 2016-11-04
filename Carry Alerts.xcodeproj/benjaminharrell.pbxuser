@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	1C837E21165C7E1900C47FEF /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1CE777F516BAFC1800634A0E /* Carry Alerts */;
+		activeTarget = 1C837E29165C7E1900C47FEF /* Carry Alerts */;
+		codeSenseManager = 1CE7786716BAFC3800634A0E /* Code sense */;
+		executables = (
+			1CE777F516BAFC1800634A0E /* Carry Alerts */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					379,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 382628302;
+			PBXWorkspaceStateSaveDate = 382628302;
+		};
+		sourceControlManager = 1CE7786616BAFC3800634A0E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1C837E29165C7E1900C47FEF /* Carry Alerts */ = {
+		activeExec = 0;
+		executables = (
+			1CE777F516BAFC1800634A0E /* Carry Alerts */,
+		);
+	};
+	1C837E53165C7E1A00C47FEF /* AlertsTests */ = {
+		activeExec = 0;
+	};
+	1CE777F516BAFC1800634A0E /* Carry Alerts */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Carry Alerts";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1CE7786616BAFC3800634A0E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1CE7786716BAFC3800634A0E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

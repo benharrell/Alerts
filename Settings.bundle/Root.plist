@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Settings</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+			<key>Title</key>
+			<string>Categories</string>
+			<key>File</key>
+			<string>CategorySettings</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Detection Distance (yds)</string>
+			<key>Key</key>
+			<string>detection_distance_yds_preference</string>
+			<key>DefaultValue</key>
+			<integer>50</integer>
+			<key>Values</key>
+			<array>
+				<integer>-1</integer>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>5</integer>
+				<integer>10</integer>
+				<integer>15</integer>
+				<integer>20</integer>
+				<integer>25</integer>
+				<integer>50</integer>
+				<integer>75</integer>
+				<integer>100</integer>
+				<integer>150</integer>
+				<integer>200</integer>
+				<integer>250</integer>
+				<integer>500</integer>
+				<integer>1000</integer>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>Constant</string>
+				<string>1</string>
+				<string>2</string>
+				<string>5</string>
+				<string>10</string>
+				<string>15</string>
+				<string>20</string>
+				<string>25</string>
+				<string>50</string>
+				<string>75</string>
+				<string>100</string>
+				<string>150</string>
+				<string>200</string>
+				<string>250</string>
+				<string>500</string>
+				<string>1000</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Search Mode (miles)</string>
+			<key>Key</key>
+			<string>search_size_miles_preference</string>
+			<key>DefaultValue</key>
+			<integer>20</integer>
+			<key>Values</key>
+			<array>
+				<integer>5</integer>
+				<integer>10</integer>
+				<integer>20</integer>
+				<integer>30</integer>
+				<integer>50</integer>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>5 - metro/pedestrian</string>
+				<string>10 - city driving</string>
+				<string>20 - balanced</string>
+				<string>30 - suburban commuter</string>
+				<string>50 - rural/long commuter</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Battery Usage / Accuracy</string>
+			<key>Key</key>
+			<string>battery_usage_preference</string>
+			<key>DefaultValue</key>
+			<string>kCLLocationAccuracyNearestTenMeters</string>
+			<key>Values</key>
+			<array>
+				<string>kCLLocationAccuracyBestForNavigation</string>
+				<string>kCLLocationAccuracyBest</string>
+				<string>kCLLocationAccuracyNearestTenMeters</string>
+				<string>kCLLocationAccuracyHundredMeters</string>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>Very High Usage/Accuracy</string>
+				<string>High Usage/Accuracy</string>
+				<string>Recommended</string>
+				<string>Less Usage/Accuracy</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Enable Background Mode</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Key</key>
+			<string>background_mode_preference</string>
+			<key>DefaultValue</key>
+			<true/>
+			<key>TrueValue</key>
+			<true/>
+			<key>FalseValue</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>

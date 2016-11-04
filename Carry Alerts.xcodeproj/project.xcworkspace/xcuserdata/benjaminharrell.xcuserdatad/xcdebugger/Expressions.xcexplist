@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[wdAlertLocation subtitle]:wdAlertLocation.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[wdAlertDetailsViewController viewDidAppear:]:wdAlertDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parentViewController">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.frame">
+            </PersistentString>
+            <PersistentString
+               value = "_alertAnnotation.originalAnnotationView.rightCalloutAccessoryView">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.center">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[wdAlertsManager locationManager:didUpdateToLocation:fromLocation:]:wdAlertsManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "newLocation.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[wdAlertsManager loadAndCheckStateForLocation:]:wdAlertsManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[wdAlertDetailsViewController exitDetails:]:wdAlertDetailsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[wdViewController moveMapToUser]:wdViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mapView.centerCoordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[wdViewController sizeMapToDefault]:wdViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[wdAlertsManager getLastLocationPreferenceValue]:wdAlertsManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[wdViewController plotAlertPositions]:wdViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "alertItem.shapePoints.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[wdAlertsManager init]:wdAlertsManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[wdAlertDetailsViewController viewDidLoad]:wdAlertDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__71-[wdAlertsManager loadAlertCategory:shouldCheckAlerts:filter:keyIndex:]_block_invoke:wdAlertsManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[wdAlertDetailsViewController viewWillAppear:]:wdAlertDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

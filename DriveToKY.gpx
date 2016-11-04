@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1"
+     creator="GMapToGPX 6.4j - http://www.elsewhere.org/GMapToGPX/"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+   
+      <wpt lat="36.04274" lon="-83.99467">
+         <name>GRTP-001</name>
+         <cmt>Head southeast on High Alpine Ln toward Snowmass Dr</cmt>
+         <desc>Head southeast on High Alpine Ln toward Snowmass Dr</desc>
+      </wpt>
+      <wpt lat="36.04223" lon="-83.99418">
+         <name>GRTP-002</name>
+         <cmt>Take the 1st right onto Snowmass Dr</cmt>
+         <desc>Take the 1st right onto Snowmass Dr</desc>
+      </wpt>
+      <wpt lat="36.04166" lon="-83.995">
+         <name>GRTP-003</name>
+         <cmt>Take the 1st left onto Rocky Mountain High Blvd</cmt>
+         <desc>Take the 1st left onto Rocky Mountain High Blvd</desc>
+      </wpt>
+      <wpt lat="36.04072" lon="-83.99439">
+         <name>GRTP-004</name>
+         <cmt>Turn left onto E Beaver Creek Dr</cmt>
+         <desc>Turn left onto E Beaver Creek Dr</desc>
+      </wpt>
+      <wpt lat="36.05588" lon="-83.97029">
+         <name>GRTP-005</name>
+         <cmt>Continue onto Cunningham Rd</cmt>
+         <desc>Continue onto Cunningham Rd</desc>
+      </wpt>
+      <wpt lat="36.07483" lon="-83.9278">
+         <name>GRTP-006</name>
+         <cmt>Turn left onto TN-33 N/TN-71 N/US-441 N/Maynardville Pike</cmt>
+         <desc>Turn left onto TN-33 N/TN-71 N/US-441 N/Maynardville Pike</desc>
+      </wpt>
+      <wpt lat="36.45177" lon="-83.56937">
+         <name>GRTP-007</name>
+         <cmt>Continue onto US-25E Scenic N</cmt>
+         <desc>Continue onto US-25E Scenic N</desc>
+      </wpt>
+      <wpt lat="36.56402" lon="-83.6513">
+         <name>GRTP-008</name>
+         <cmt>Continue onto US-25E N/Cumberland Gap Pkwy</cmt>
+         <desc>Continue onto US-25E N/Cumberland Gap Pkwy</desc>
+      </wpt>
+      <wpt lat="36.60822" lon="-83.70171">
+         <name>GRTP-009</name>
+         <cmt>Turn left onto E Cumberland Ave</cmt>
+         <desc>Turn left onto E Cumberland Ave</desc>
+      </wpt>
+      <wpt lat="36.60724" lon="-83.71426">
+         <name>GMLS-001</name>
+         <cmt>Middlesboro, KY</cmt>
+         <desc>Middlesboro, KY</desc>
+      </wpt>
+  </gpx>

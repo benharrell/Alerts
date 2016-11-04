@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Settings</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Message format</string>
+			<key>Key</key>
+			<string>msgFormat</string>
+			<key>DefaultValue</key>
+			<integer>1</integer>
+			<key>Values</key>
+			<array>
+				<integer>1</integer>
+				<integer>2</integer>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>Short</string>
+				<string>Full</string>
+			</array>
+			<key>FooterText</key>
+			<string>Short: time and message,
+                    Full: everything</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>About</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>Copyright © 2011 by Jomnius.
+                    All rights reserved.</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>1.0</string>
+			<key>Key</key>
+			<string>version_string</string>
+			<key>Title</key>
+			<string>Version</string>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>support@carryalerts.com</string>
+			<key>Key</key>
+			<string>version_string1</string>
+			<key>Title</key>
+			<string>Support</string>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>www.carryalerts.com</string>
+			<key>Key</key>
+			<string>version_string1</string>
+			<key>Title</key>
+			<string>Website</string>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

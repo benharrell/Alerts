@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1"
+    creator="GMapToGPX 6.4j - http://www.elsewhere.org/GMapToGPX/"
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    
+        <wpt lat="36.04274" lon="-83.99467">
+            <name>GRTP-001</name>
+            <cmt>Head southeast on High Alpine Ln toward Snowmass Dr</cmt>
+            <desc>Head southeast on High Alpine Ln toward Snowmass Dr</desc>
+        </wpt>
+        <wpt lat="36.04223" lon="-83.99418">
+            <name>GRTP-002</name>
+            <cmt>Take the 1st right onto Snowmass Dr</cmt>
+            <desc>Take the 1st right onto Snowmass Dr</desc>
+        </wpt>
+        <wpt lat="36.04166" lon="-83.995">
+            <name>GRTP-003</name>
+            <cmt>Take the 1st left onto Rocky Mountain High Blvd</cmt>
+            <desc>Take the 1st left onto Rocky Mountain High Blvd</desc>
+        </wpt>
+        <wpt lat="36.04072" lon="-83.99439">
+            <name>GRTP-004</name>
+            <cmt>Turn right onto E Beaver Creek Dr</cmt>
+            <desc>Turn right onto E Beaver Creek Dr</desc>
+        </wpt>
+        <wpt lat="36.03456" lon="-83.99727">
+            <name>GRTP-005</name>
+            <cmt>Continue onto Central Avenue Pike</cmt>
+            <desc>Continue onto Central Avenue Pike</desc>
+        </wpt>
+        <wpt lat="36.02649" lon="-83.99325">
+            <name>GRTP-006</name>
+            <cmt>Continue onto Callahan Dr</cmt>
+            <desc>Continue onto Callahan Dr</desc>
+        </wpt>
+        <wpt lat="36.02457" lon="-83.99839">
+            <name>GRTP-007</name>
+            <cmt>Turn left to merge onto I-75 S</cmt>
+            <desc>Turn left to merge onto I-75 S</desc>
+        </wpt>
+        <wpt lat="36.00332" lon="-83.96229">
+            <name>GRTP-008</name>
+            <cmt>Continue onto I-275 S</cmt>
+            <desc>Continue onto I-275 S</desc>
+        </wpt>
+        <wpt lat="35.97333" lon="-83.93212">
+            <name>GRTP-009</name>
+            <cmt>Keep right at the fork, follow signs for I-40 E/Asheville and merge onto I-40 E</cmt>
+            <desc>Keep right at the fork, follow signs for I-40 E/Asheville and merge onto I-40 E</desc>
+        </wpt>
+        <wpt lat="35.97319" lon="-83.92017">
+            <name>GRTP-010</name>
+            <cmt>Take exit 388A for James White Parkway</cmt>
+            <desc>Take exit 388A for James White Parkway</desc>
+        </wpt>
+        <wpt lat="35.97327" lon="-83.9171">
+            <name>GRTP-011</name>
+            <cmt>Merge onto TN-158 W/Downtown Loop/James White Pkwy</cmt>
+            <desc>Merge onto TN-158 W/Downtown Loop/James White Pkwy</desc>
+        </wpt>
+        <wpt lat="35.96585" lon="-83.91586">
+            <name>GRTP-012</name>
+            <cmt>Take the exit toward US-441 S/Downtown/Cumberland Ave</cmt>
+            <desc>Take the exit toward US-441 S/Downtown/Cumberland Ave</desc>
+        </wpt>
+        <wpt lat="35.96305" lon="-83.91568">
+            <name>GRTP-013</name>
+            <cmt>Slight left onto Cumberland Ave SW</cmt>
+            <desc>Slight left onto Cumberland Ave SW</desc>
+        </wpt>
+        <wpt lat="35.96262" lon="-83.91674">
+            <name>GRTP-014</name>
+            <cmt>Take the 1st left onto S Gay St</cmt>
+            <desc>Take the 1st left onto S Gay St</desc>
+        </wpt>
+        <wpt lat="35.96234" lon="-83.91657">
+            <name>GMLS-001</name>
+            <cmt>Suite # 330, 800 Market St</cmt>
+            <desc>Suite # 330, 800 Market St</desc>
+        </wpt>
+    <wpt lat="35.96234" lon="-83.91656">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96224" lon="-83.91655">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96214" lon="-83.91654">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96204" lon="-83.91653">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96194" lon="-83.91643">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+
+    <wpt lat="35.96184" lon="-83.91633">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    <wpt lat="35.96174" lon="-83.91623">
+        <name>GMLS-001</name>
+        <cmt>Suite # 330, 800 Market St</cmt>
+        <desc>Suite # 330, 800 Market St</desc>
+    </wpt>
+    
+</gpx>
